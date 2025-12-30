@@ -1,37 +1,23 @@
-# wack (aka wacktactic)
-
-Hello, I’m wack just a coder who doesn’t do important stuff.
-
-## About Me
-
-I like writing code for the sake of it. Sometimes it works, sometimes it doesn’t.
-I experiment a lot, break things often, and learn something new every time I do.
-
-## Tech Stack
-
+hi
 ```
 C      \
-C++   ---> Intermediate
+C++   ---> Intermediate / Dont Really Care Much
 C#     /
 
 Lua     \
-Luau   ---> Expert
+Luau   ---> Expert / Was Maining Then Quit
         /
 
-Python ----> Advanced
+Python ----> Advanced / No More Python :)
 
 HTML    \
-JS     ---> Mediocre
-        /
+JS     ---> Mediocre /Sometimes?
+CSS     /
 
-Rust ---> Intermediate
+Rust ---> Intermediate / Tried Like 3-4 Times Tbh
 
 Sql ---> Mediocre
+
+Go ----> Learning Going Well Yada Yada
 ```
-
-## Notes
-
-I build i fail i stop.
-I enjoy solving problems that don’t really need solving.
-If it runs, that’s good enough.
 
