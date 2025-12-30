@@ -11,7 +11,7 @@ Luau   ---> Expert / Was Maining Then Quit
 Python ----> Advanced / No More Python :)
 
 HTML    \
-JS     ---> Mediocre /Sometimes?
+JS     ---> Mediocre / Sometimes?
 CSS     /
 
 Rust ---> Intermediate / Tried Like 3-4 Times Tbh
