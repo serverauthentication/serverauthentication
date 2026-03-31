@@ -14,7 +14,7 @@ HTML    \
 JS     ---> Mediocre / Sometimes?
 CSS     /
 
-Rust ---> Intermediate / Tried Like 3-4 Times Tbh
+Rust ---> Intermediate
 
 Sql ---> Mediocre
 
